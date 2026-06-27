@@ -1,6 +1,3 @@
-# Distributed-Book-Search-Agent
-A Java Swing GUI application that dynamically aggregates and filters data across multiple federated MySQL databases using JDBC and Java Streams.
-
 # Distributed Book Search Agent 
 
 A Java Swing GUI application that acts as a smart federated search engine, dynamically aggregating and filtering book data across multiple standalone MySQL databases in real-time.
