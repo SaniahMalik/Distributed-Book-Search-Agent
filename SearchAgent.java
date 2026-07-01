@@ -47,10 +47,10 @@ class Book {
 
 public class SearchAgent {
 
-    private static final String URL1 = "jdbc:mysql://localhost:3306/BookDatabase";
-    private static final String USER = "root";
-    private static final String PASSWORD = "#sani832";
-    private static final String URL2 = "jdbc:mysql://localhost:3306/BookDatabase2";
+    private static final String URL1 = "*******************";
+    private static final String USER = "*********";
+    private static final String PASSWORD = "*******";
+    private static final String URL2 = "************";
 
     private static Connection connection1;
     private static Connection connection2;
